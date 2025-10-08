@@ -34,5 +34,4 @@ By combining visual analytics with statistical aggregation, this project provide
 
 ## Videos
 ### Demo
-
-https://github.com/anshsik/Decode-Diabetes/raw/refs/heads/main/Recording%202025-10-08%20165542.mp4
+![Recording 2025-10-08 165542](https://github.com/user-attachments/assets/9dc3a36f-7eff-4057-a284-2ddb93397b3f)
