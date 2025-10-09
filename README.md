@@ -34,4 +34,5 @@ By combining visual analytics with statistical aggregation, this project provide
 
 ## Videos
 ### Demo
+
 ![Recording 2025-10-08 165542(1)](https://github.com/user-attachments/assets/fd0542e7-a1de-455c-8752-04da23135070)
